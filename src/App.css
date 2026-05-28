@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+
+  /* Background image for landing page */
+  background-image: url("https://1drv.ms/i/c/525813e2b1b3135e/IQBlzOAzmJH6Q5EcALmWSCURAfwM1w7JaT-EU21HnRzSY64?e=vGbQ2T");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
